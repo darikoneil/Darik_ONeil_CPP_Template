@@ -1,2 +1,1 @@
-# Darik_ONeil_CPP_Template
-Template for C++ Projects
+C++ Development Template Repository
